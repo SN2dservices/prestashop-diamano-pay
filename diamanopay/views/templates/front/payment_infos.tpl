@@ -24,5 +24,5 @@
 *}
 
 <section>
-  <p>{l s='Add some details about the payment option' mod='diamanopay'}</p>
+
 </section>
